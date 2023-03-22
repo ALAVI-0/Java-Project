@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="LibrariesJava"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="F:/0.cse/semester 5/OBJECT ORIENTED PROGRAMMING 1 (JAVA) [J]/project Super shop aree/LibrariesJava/commons-lang3-3.5/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="F:/0.cse/semester 5/OBJECT ORIENTED PROGRAMMING 1 (JAVA) [J]/project Super shop aree/LibrariesJava/commons-lang3-3.5/commons-lang3-3.5-javadoc.jar"/>
+	<classpathentry kind="lib" path="F:/0.cse/semester 5/OBJECT ORIENTED PROGRAMMING 1 (JAVA) [J]/project Super shop aree/LibrariesJava/commons-lang3-3.5/commons-lang3-3.5-sources.jar"/>
+	<classpathentry kind="lib" path="F:/0.cse/semester 5/OBJECT ORIENTED PROGRAMMING 1 (JAVA) [J]/project Super shop aree/LibrariesJava/commons-lang3-3.5/commons-lang3-3.5-tests.jar"/>
+	<classpathentry kind="lib" path="F:/0.cse/semester 5/OBJECT ORIENTED PROGRAMMING 1 (JAVA) [J]/project Super shop aree/LibrariesJava/commons-lang3-3.5/commons-lang3-3.5-test-sources.jar"/>
+	<classpathentry kind="lib" path="F:/0.cse/semester 5/OBJECT ORIENTED PROGRAMMING 1 (JAVA) [J]/project Super shop aree/LibrariesJava/mysql.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
